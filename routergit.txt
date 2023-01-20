@@ -1,0 +1,2 @@
+git remote add origin git@github.com:programmer105/django-react-api.git
+git branch -M main
